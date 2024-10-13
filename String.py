@@ -27,4 +27,8 @@ print(index)
 e=" Hi, \"Welcome\" to\n my \t home" #\n -> for new line. \t-> for space, \"\"" -> for double quote
 print(e)
 
+f1 = "Python is a Compiled Language."  # for replace word
+print(f1.replace("Compiled", "Interpreted"))
 
+str1 = "He's name is Yash.  Yash play PUBG very well." # for capitalizes each staring letter in word
+print(str1.title())
