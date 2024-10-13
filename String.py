@@ -23,3 +23,8 @@ print(c.startswith("Dai")) #String is Start with "Dai" or not ? if no => False (
 d ="My India "
 index= d.find("India")
 print(index)
+
+e=" Hi, \"Welcome\" to\n my \t home" #\n -> for new line. \t-> for space, \"\"" -> for double quote
+print(e)
+
+
