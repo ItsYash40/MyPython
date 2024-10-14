@@ -32,3 +32,4 @@ print(f1.replace("Compiled", "Interpreted"))
 
 str1 = "He's name is Yash.  Yash play PUBG very well." # for capitalizes each staring letter in word
 print(str1.title())
+
